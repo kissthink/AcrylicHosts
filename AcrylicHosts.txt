@@ -40,9 +40,9 @@
 #############################################################################
 
 127.0.0.1 localhost blog.example.com
-203.208.46.146 *.chromium.org *.feedburner.com *.ggpht.com *.gmail.com *.gmodules.com *.google-analytics.com *.google.cn *.google.com *.google.com.hk *.google.com.* *.google.de *.googleapis.com *.googlechinawebmaster.com *.googlecode.com *.googlehosted.com *.googlelabs.com *.googlemashups.com *.googleusercontent.cn *.googleusercontent.com *.gstatic.cn *.gstatic.com *.gvt0.cn *.gvt0.com *.orkut.com *.youtu.be *.youtube-nocookie.com *.ytimg.com auth.keyhole.com chrome.angrybirds.com ct-google.crimecitygame.com g.cn g.co gmail.com goo.gl google.com -upload.youtube.com -talk.google.com *.youtube.com 
+203.208.46.148 *.chromium.org *.feedburner.com *.ggpht.com *.gmail.com *.gmodules.com *.google-analytics.com *.google.cn *.google.com *.google.com.hk *.google.com.* *.google.de *.googleapis.com *.googlechinawebmaster.com *.googlecode.com *.googlehosted.com *.googlelabs.com *.googlemashups.com *.googleusercontent.cn *.googleusercontent.com *.gstatic.cn *.gstatic.com *.gvt0.cn *.gvt0.com *.orkut.com *.youtu.be *.ytimg.com auth.keyhole.com chrome.angrybirds.com ct-google.crimecitygame.com g.cn g.co gmail.com goo.gl google.com -talk.google.com
 
-173.194.72.199 *.golang.org golang.org  *.blogspot.com *.appspot.com *.blogger.com
+173.194.72.199 *.golang.org golang.org  *.blogspot.com *.appspot.com *.blogger.com *.youtube.com -upload.youtube.com *.youtube-nocookie.com
 
 #Facebook Start
 173.252.100.17  api-read.facebook.com
@@ -162,18 +162,6 @@
 0.0.0.0	ereg.wip3.adobe.com
 0.0.0.0	wwis-dubc1-vip60.adobe.com
 #Adobe Activation END
-
-#GitHub START
-204.232.175.78	documentcloud.github.com
-207.97.227.239	github.com
-204.232.175.94	gist.github.com
-107.21.116.220	help.github.com
-207.97.227.252	nodeload.github.com
-199.27.76.130	raw.github.com
-107.22.3.110	status.github.com
-204.232.175.78	training.github.com
-207.97.227.243	www.github.com
-#GitHub END
 
 #Feedly START
 173.194.38.137	feedly-beta.appspot.com
